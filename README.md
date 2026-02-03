@@ -1,4 +1,4 @@
-# QR-Entry---Event-Ticket-Booking-System & Attendance Management System  
+# QR-Entry_Event-Ticket-Booking-System & Attendance Management System  
 
 > A full-stack web application that allows users to browse events, book tickets securely, and enables real-time QR-based attendance tracking for organizers.
 
